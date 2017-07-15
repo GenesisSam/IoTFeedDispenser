@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/GenesisSam/IoTFeedDispenser/issues"
   },
-  "homepage": "https://github.com/GenesisSam/IoTFeedDispenser#readme"
+  "homepage": "https://github.com/GenesisSam/IoTFeedDispenser#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "rpi-gpio": "^0.8.1"
+  }
 }
