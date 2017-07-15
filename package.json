@@ -1,0 +1,27 @@
+{
+  "name": "feeddispenser",
+  "version": "1.0.0",
+  "description": "IoT animal feed dispenser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenesisSam/IoTFeedDispenser.git"
+  },
+  "keywords": [
+    "IoT",
+    "feed",
+    "dispenser",
+    "feed",
+    "dispenser",
+    "web"
+  ],
+  "author": "GenesisSam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenesisSam/IoTFeedDispenser/issues"
+  },
+  "homepage": "https://github.com/GenesisSam/IoTFeedDispenser#readme"
+}
