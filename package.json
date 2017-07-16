@@ -4,7 +4,8 @@
   "description": "IoT animal feed dispenser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "rpi-gpio": "^0.8.1"
+    "onoff": "^1.1.4",
+    "pigpio": "^0.6.1"
   }
 }
